@@ -1,0 +1,5 @@
+ackage com.mercadolibre.marketplace.product;
+
+public interface Repository {
+
+}

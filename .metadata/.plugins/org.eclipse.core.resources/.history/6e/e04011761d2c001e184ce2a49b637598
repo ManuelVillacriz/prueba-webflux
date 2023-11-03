@@ -1,0 +1,5 @@
+package com.mercadolibre.marketplace.product.dto;
+
+public class ProductDto {
+
+}
